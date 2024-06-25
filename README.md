@@ -1,4 +1,4 @@
-**SAA **
+****SAA ****
 
 1. A company needs to implement a disaster recovery strategy for its on-premises database to AWS. The recovery time objective (RTO) and recovery point objective (RPO) should be as low as possible. Which combination of AWS services should they use?
 		
