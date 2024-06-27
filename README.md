@@ -8,9 +8,9 @@
    D. AWS Snowball, Amazon S3, and Amazon EC2 Auto Scaling
 ### Explanation:  
    A. AWS Storage Gateway, Amazon S3 Glacier, and Amazon EC2 
-   - [AWS Storage Gateway](https://docs.aws.amazon.com/storagegateway/latest/userguide/WhatIsStorageGateway.html)  
-   - [Amazon S3 Glacier](https://docs.aws.amazon.com/amazonglacier/latest/dev/introduction.html)  
-   - [Amazon EC2](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html)![image](https://github.com/George-Palangattil/SAAJuly2004/assets/118212634/5154c70c-db63-4704-bfb9-a55c52e68622)  
+   - [AWS Storage Gateway]
+   - [Amazon S3 Glacier] 
+   - [Amazon EC2] 
 
    B. Amazon RDS Read Replicas, AWS Backup, and Amazon Route 53  
    C. AWS Database Migration Service (DMS), Amazon RDS Multi-AZ, and Amazon Route 53  
