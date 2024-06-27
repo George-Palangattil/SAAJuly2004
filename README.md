@@ -8,7 +8,7 @@
    D. AWS Snowball, Amazon S3, and Amazon EC2 Auto Scaling
 ### Explanation:  
    A. AWS Storage Gateway, Amazon S3 Glacier, and Amazon EC2 
-- [AWS Storage Gateway](https://docs.aws.amazon.com/storagegateway/latest/userguide/WhatIsStorageGateway.html)
+- [AWS Storage Gateway] (https://docs.aws.amazon.com/storagegateway/latest/userguide/WhatIsStorageGateway.html)
 - [Amazon S3 Glacier](https://docs.aws.amazon.com/amazonglacier/latest/dev/introduction.html)
 - [Amazon EC2](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html)![image](https://github.com/George-Palangattil/SAAJuly2004/assets/118212634/05083989-5128-4f22-b19c-f6c3a1f017b0)
 
