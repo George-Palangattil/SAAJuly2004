@@ -3,7 +3,7 @@
 1. A company needs to implement a disaster recovery strategy for its on-premises database to AWS. The recovery time objective (RTO) and recovery point objective (RPO) should be as low as possible. Which combination of AWS services should they use?
    
    	A. **AWS Storage Gateway, Amazon S3 Glacier, and Amazon EC2**
-	B. Amazon RDS Read Replicas, AWS Backup, and Amazon Route 53  
+	B. Amazon RDS Read Replicas, AWS Backup, and Amazon Route 53 
 	C. AWS Database Migration Service (DMS), Amazon RDS Multi-AZ, and Amazon Route 53  
 	D. AWS Snowball, Amazon S3, and Amazon EC2 Auto Scaling
 
