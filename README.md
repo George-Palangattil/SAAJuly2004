@@ -5,7 +5,8 @@
    A. AWS Storage Gateway, Amazon S3 Glacier, and Amazon EC2   
    B. Amazon RDS Read Replicas, AWS Backup, and Amazon Route 53    
    C. **AWS Database Migration Service (DMS), Amazon RDS Multi-AZ, and Amazon Route 53**  
-   D. AWS Snowball, Amazon S3, and Amazon EC2 Auto Scaling  
+   D. AWS Snowball, Amazon S3, and Amazon EC2 Auto Scaling
+     
 ### Explanation:  
    A. AWS Storage Gateway, Amazon S3 Glacier, and Amazon EC2  
    <a href="https://docs.aws.amazon.com/storagegateway/latest/userguide/WhatIsStorageGateway.html">AWS Storage Gateway</a>
